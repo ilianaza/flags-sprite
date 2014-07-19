@@ -1,0 +1,11 @@
+{
+    "name": "flags-sprite",
+    "version": "1.0.0",
+    "main": "dist/flags.css",
+    "keywords": ["flags"],
+    "ignore": [
+        ".gitignore",
+        "bower.json",
+        "README.md"
+    ]
+}
