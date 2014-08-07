@@ -1,9 +1,9 @@
 .flag {
-	display:inline-block;
-	width: 16px;
-	height: 11px;
-	margin-right: 5px;
-	background:url(flags.png) no-repeat
+  display:inline-block;
+  width: 16px;
+  height: 11px;
+  margin-right: 5px;
+  background:url(flags.png) no-repeat
 }
 
 .flag.flag-ad {background-position: -16px 0}
@@ -15,11 +15,13 @@
 .flag.flag-am {background-position: -112px 0}
 .flag.flag-an {background-position: -128px 0}
 .flag.flag-ao {background-position: -144px 0}
+.flag.flag-aq {background-position: -192px -165px}
 .flag.flag-ar {background-position: -160px 0}
 .flag.flag-as {background-position: -176px 0}
 .flag.flag-at {background-position: -192px 0}
 .flag.flag-au {background-position: -208px 0}
 .flag.flag-aw {background-position: -224px 0}
+.flag.flag-ax {background-position: -176px -165px}
 .flag.flag-az {background-position: -240px 0}
 .flag.flag-ba {background-position: 0 -11px}
 .flag.flag-bb {background-position: -16px -11px}
@@ -30,6 +32,7 @@
 .flag.flag-bh {background-position: -96px -11px}
 .flag.flag-bi {background-position: -112px -11px}
 .flag.flag-bj {background-position: -128px -11px}
+.flag.flag-bl {background-position: -144px -44px}
 .flag.flag-bm {background-position: -144px -11px}
 .flag.flag-bn {background-position: -160px -11px}
 .flag.flag-bo {background-position: -176px -11px}
@@ -42,6 +45,7 @@
 .flag.flag-bz {background-position: -32px -22px}
 .flag.flag-ca {background-position: -48px -22px}
 .flag.flag-catalonia {background-position: -64px -22px}
+.flag.flag-cc {background-position: -224px -165px}
 .flag.flag-cd {background-position: -80px -22px}
 .flag.flag-cf {background-position: -96px -22px}
 .flag.flag-cg {background-position: -112px -22px}
@@ -56,6 +60,7 @@
 .flag.flag-cu {background-position: 0 -33px}
 .flag.flag-cv {background-position: -16px -33px}
 .flag.flag-cw {background-position: -32px -33px}
+.flag.flag-cx {background-position: -208px -165px}
 .flag.flag-cy {background-position: -48px -33px}
 .flag.flag-cz {background-position: -64px -33px}
 .flag.flag-de {background-position: -80px -33px}
@@ -90,7 +95,7 @@
 .flag.flag-gl {background-position: -32px -55px}
 .flag.flag-gm {background-position: -48px -55px}
 .flag.flag-gn {background-position: -64px -55px}
-.flag.flag-gp {background-position: -80px -55px}
+.flag.flag-gp {background-position: -144px -44px}
 .flag.flag-gq {background-position: -96px -55px}
 .flag.flag-gr {background-position: -112px -55px}
 .flag.flag-gs {background-position: -128px -55px}
@@ -146,6 +151,7 @@
 .flag.flag-mc {background-position: -160px -88px}
 .flag.flag-md {background-position: -176px -88px}
 .flag.flag-me {background-position: -192px -88px}
+.flag.flag-mf {background-position: -144px -44px}
 .flag.flag-mg {background-position: -208px -88px}
 .flag.flag-mh {background-position: -224px -88px}
 .flag.flag-mk {background-position: -240px -88px}
@@ -206,6 +212,7 @@
 .flag.flag-sg {background-position: -96px -132px}
 .flag.flag-sh {background-position: -112px -132px}
 .flag.flag-si {background-position: -128px -132px}
+.flag.flag-sj {background-position: -96px -110px}
 .flag.flag-sk {background-position: -144px -132px}
 .flag.flag-sl {background-position: -160px -132px}
 .flag.flag-sm {background-position: -176px -132px}
@@ -225,7 +232,7 @@
 .flag.flag-th {background-position: -144px -143px}
 .flag.flag-tj {background-position: -160px -143px}
 .flag.flag-tk {background-position: -176px -143px}
-.flag.flag-tl {background-position: -192px -143px}
+.flag.flag-ti {background-position: -192px -143px}
 .flag.flag-tm {background-position: -208px -143px}
 .flag.flag-tn {background-position: -224px -143px}
 .flag.flag-to {background-position: -240px -143px}
@@ -236,7 +243,7 @@
 .flag.flag-tz {background-position: -64px -154px}
 .flag.flag-ua {background-position: -80px -154px}
 .flag.flag-ug {background-position: -96px -154px}
-.flag.flag-um {background-position: -112px -154px}
+.flag.flag-um {background-position: -128px -154px}
 .flag.flag-us {background-position: -128px -154px}
 .flag.flag-uy {background-position: -144px -154px}
 .flag.flag-uz {background-position: -160px -154px}
@@ -251,7 +258,7 @@
 .flag.flag-wf {background-position: -48px -165px}
 .flag.flag-ws {background-position: -64px -165px}
 .flag.flag-ye {background-position: -80px -165px}
-.flag.flag-yt {background-position: -96px -165px}
+.flag.flag-yt {background-position: -144px -44px}
 .flag.flag-za {background-position: -112px -165px}
 .flag.flag-zanzibar {background-position: -128px -165px}
 .flag.flag-zm {background-position: -144px -165px}
